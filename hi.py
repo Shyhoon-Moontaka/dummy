@@ -1,2 +1,1 @@
 print("java")
-print("shyhoon")
